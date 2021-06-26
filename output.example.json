@@ -1,0 +1,17 @@
+{
+  "NearestUndergroundStation": "Olimpiiska",
+  "distanceToTheNearestStationByWalk": "270m",
+  "timeToTheNearestStationByWalk": "4min",
+  "distancesBySubway": [
+    {
+      "destination": "Bryullova St, 7, Kyiv, 02000",
+      "minTimeBySubway": "32min",
+      "link": "https://www.google.com.ua/maps/dir/1K3,+Fizkul'tury+St,+1%D0%9A3,+Kyiv,+02000/Bryullova+St,+7,+Kyiv,+02000/@50.4395815,30.4685191,13z/am=t/data=!3m1!4b1!4m16!4m15!1m5!1m1!1s0x40d4cf1d2568f09d:0x7d5b3e2cc4706130!2m2!1d30.5192335!2d50.4311925!1m5!1m1!1s0x40d4ce925646ddc1:0xf3536b1ba6bd8244!2m2!1d30.4818873!2d50.4402817!2m1!5e1!3e3?hl=en&authuser=0"
+    },
+    {
+      "destination": "Frunze St, 15, Kyiv, 04080",
+      "minTimeBySubway": "26min",
+      "link": "https://www.google.com.ua/maps/dir/1K3,+Fizkul'tury+St,+1%D0%9A3,+Kyiv,+02000/Frunze+St,+15,+Kyiv,+04080/@50.4497068,30.4992148,14z/am=t/data=!4m16!4m15!1m5!1m1!1s0x40d4cf1d2568f09d:0x7d5b3e2cc4706130!2m2!1d30.5192335!2d50.4311925!1m5!1m1!1s0x40d4ce6ce6679121:0xedb58124d351643a!2m2!1d30.5064688!2d50.4680213!2m1!5e1!3e3"
+    }
+  ]
+}
